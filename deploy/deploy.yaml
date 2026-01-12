@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: rkumarmiccust/python-app:v20260112121458
+        image: rkumarmiccust/python-app:v20260112125947
         ports:
         - containerPort: 5000
